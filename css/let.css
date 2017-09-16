@@ -1,0 +1,23 @@
+/* CSS Document */
+
+body{
+background-image: url(../images/bgi.jpg)
+}
+div{text-align: center;
+	margin: 6em;
+	width: auto;
+	height: auto;
+	color:gold;
+	
+}
+
+p{
+	font-size:20px
+	
+}
+.bef{
+	text-align: left
+}
+.last{
+	text-align: right;
+}
